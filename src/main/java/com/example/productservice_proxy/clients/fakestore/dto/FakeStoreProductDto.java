@@ -17,4 +17,5 @@ public class FakeStoreProductDto implements IClientProductDto {
     private String image;
     private String category;
     private RatingDto rating;
+    private RatingDto rating1;
 }
